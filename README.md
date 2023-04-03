@@ -5,7 +5,7 @@
 Sign language is used to communication between dumb and deaf people that are impaired with ears and mouth.
 Since sign language is not easy for everyone to use, therefore this model has been created to communicate with them easily.
 
-#Algorithms used
+# Algorithms used
 * numpy
 * Pandas
 * tensorflow 
