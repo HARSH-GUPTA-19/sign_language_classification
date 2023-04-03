@@ -8,8 +8,8 @@ Since sign language is not easy for everyone to use, therefore this model has be
 #Algorithms used
 * numpy
 * Pandas
-*tensorflow 
-*keras
+* tensorflow 
+* keras
 
 We used convolutional Neural Network(CNN) using Keras to train the model.
 
